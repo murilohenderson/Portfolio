@@ -10,7 +10,6 @@ Você pode acessar a página do meu portfólio clicando [aqui](https://portfolio
 - ``Visual Studio Code``
 - ``HTML5``
 - ``CSS3``
-- ``JavaScript``
 
 
 
