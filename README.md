@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio </h1>
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
-<p>Projeto de jogo sorteador de um número secreto, usando HTML, CSS e JavaScript, para a formação de Iniciante em Programação do programa Oracle Next Education, em parceria com a Alura.</p>
+<p>Portfólio criado a partir dos conceitso de HTMl5 e CSS3 aprendidos.</p>
 
 # 📁 Acesso ao projeto 
 Você pode acessar a página do meu portfólio clicando [aqui](https://portfolio-wine-beta-68.vercel.app/)
